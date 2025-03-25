@@ -19,6 +19,14 @@ def my_add(a: int, b: int) -> int:
 
 ```
 
+### List
+
+
+- [X] Turn on GitHub Pages
+- [X] Outline my portafolio
+- [ ] Introduce myself to the world
+
+
 ## References
 
 
