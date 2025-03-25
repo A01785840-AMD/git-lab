@@ -9,6 +9,16 @@ Angel Davila
 ### Images
 
 ![Amazing image](/static/image.png)
+
+### Code Examples
+
+```python
+
+def my_add(a: int, b: int) -> int:
+  return a + b
+
+```
+
 ## References
 
 
