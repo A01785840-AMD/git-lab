@@ -6,6 +6,9 @@ Git practice laboratory
 Angel Davila
 
 ## Contents
+### Images
+
+![Amazing image](/static/image.png)
 ## References
 
 
