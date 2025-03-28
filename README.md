@@ -8,7 +8,8 @@ Angel Davila
 ## Contents
 ### Images
 
-![Amazing image](/static/image.png)
+![Amazing image](amazing-image.png)
+![Amazing image](amazing-image.png)
 
 ### Code Examples
 
